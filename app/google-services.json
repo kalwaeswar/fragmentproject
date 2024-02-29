@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "901428091741",
+    "firebase_url": "https://registrationpage-c1dc0-default-rtdb.firebaseio.com",
+    "project_id": "registrationpage-c1dc0",
+    "storage_bucket": "registrationpage-c1dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901428091741:android:d8ca8012cee8dc8e0ae6b4",
+        "android_client_info": {
+          "package_name": "com.kalwaeswar.fragmentproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiVYRZ6PA0h-TpPeLA1v0LNQ98Emmn020"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901428091741:android:914bf7d4360da25f0ae6b4",
+        "android_client_info": {
+          "package_name": "com.t2.visleksha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiVYRZ6PA0h-TpPeLA1v0LNQ98Emmn020"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
